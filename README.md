@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="src/Logo.png" alt="Tu Estilo App Logo" width="180" />
+  <img src="Src/Logo.png" alt="Tu Estilo App Logo" width="180" />
   <h1>Tu Estilo App</h1>
   <p>
     <strong>Tu app de ficheros para clientes de peluquería.</strong>
@@ -30,7 +30,7 @@
 
 <br>
 <div align="center">
-  <img src="src/captura.png" alt="Captura de pantalla de Tu Estilo App" width="1000" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <img src="Src/captura.png" alt="Captura de pantalla de Tu Estilo App" width="1000" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   <p><em>Vista general del dashboard de clientes</em></p>
 </div>
 <br>
