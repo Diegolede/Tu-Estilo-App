@@ -35,7 +35,7 @@
 </div>
 <br>
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 ### Gestión de Clientes
 *   **Registro Completo**: Creación de fichas de clientes con nombre, apellido, ID único, fecha de nacimiento, teléfono y correo electrónico.
@@ -57,7 +57,7 @@
 
 ---
 
-## 🎯 Flujo de Trabajo
+## Flujo de Trabajo
 
 Optimiza la atención a tus clientes con este flujo simple:
 
